@@ -81,11 +81,11 @@ h2 {
 
 @media screen and (max-width: 48rem) {
   .header {
-    font-size: 27px;
+    font-size: 24px;
   }
 
   .wrapper {
-    width: 80%;
+    width: 90%;
   }
 
   .login {
